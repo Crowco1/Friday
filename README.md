@@ -1,5 +1,5 @@
 # Friday
 Repository for school project
 <?php
-echo "Hi";
+echo "Hello World";
 >
